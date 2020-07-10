@@ -57,3 +57,5 @@ Storage: This is used to add attachments from storage to their notes.
 Download Notes Central today for free and enjoy superior, safe and smooth note taking on your Android device.
 
 <a href="https://play.google.com/store/apps/details?id=com.absolute.android.notescentral&hl=en"><img src="https://raw.githubusercontent.com/vidit135g/Notes-Central/master/screenshots/google-play-badge.png" width="300" height="120"/></a>
+
+### Credits: QKSMS
