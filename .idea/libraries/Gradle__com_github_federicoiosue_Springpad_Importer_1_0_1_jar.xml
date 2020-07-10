@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.federicoiosue:Springpad-Importer:1.0.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/Springpad-Importer/1.0.1/fffd72bc9a9e8110a5202b0178d9d0846ce41bd6/Springpad-Importer-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/Springpad-Importer/1.0.1/d9167900dcfdfb18b4bfeaedd84ce82ab0298265/Springpad-Importer-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/Springpad-Importer/1.0.1/16ecedc4245c24c7f4807aa3f637cc0cc016580/Springpad-Importer-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

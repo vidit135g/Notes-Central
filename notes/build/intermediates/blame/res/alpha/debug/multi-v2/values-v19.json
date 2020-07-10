@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\incremental\\mergeAlphaDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "812",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1078"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "256",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "522"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\src\\main\\res\\values-v19\\dimens.xml",
+                    "from": {
+                        "startLines": "19,18,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "803,753,856",
+                        "endColumns": "52,49,52",
+                        "endOffsets": "851,798,904"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,153,203",
+                        "endColumns": "52,49,52",
+                        "endOffsets": "148,198,251"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\src\\main\\res\\values-v19\\bools.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "793",
+                        "endColumns": "44",
+                        "endOffsets": "833"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                }
+            ]
+        }
+    ]
+}

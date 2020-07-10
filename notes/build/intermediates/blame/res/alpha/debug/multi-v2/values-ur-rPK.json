@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\incremental\\mergeAlphaDebugResources\\merged.dir\\values-ur-rPK\\values-ur-rPK.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\ffdd28830cae603c9faa45e3ef4cde53\\jetified-sublimepickerlibrary-2.1.2\\res\\values-ur-rPK\\values-ur-rPK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,153,225,314,408,449,512,572,632,689",
+                        "endColumns": "47,71,88,93,40,62,59,59,56,66",
+                        "endOffsets": "148,220,309,403,444,507,567,627,684,751"
+                    }
+                }
+            ]
+        }
+    ]
+}

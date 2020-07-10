@@ -1,0 +1,10 @@
+#Sat May 23 12:14:13 IST 2020
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\dex\\alphaDebug\\mergeExtDexAlphaDebug\\out\\classes2.dex
+base.1=C\:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\dex\\alphaDebug\\mergeProjectDexAlphaDebug\\out\\classes.dex
+base.0=C\:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\dex\\alphaDebug\\mergeExtDexAlphaDebug\\out\\classes.dex

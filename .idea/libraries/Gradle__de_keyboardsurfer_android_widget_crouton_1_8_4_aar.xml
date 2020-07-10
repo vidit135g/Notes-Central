@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: de.keyboardsurfer.android.widget:crouton:1.8.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627469a118a21d6a90ad58c417716286/jetified-crouton-1.8.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627469a118a21d6a90ad58c417716286/jetified-crouton-1.8.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.keyboardsurfer.android.widget/crouton/1.8.4/8af27375bbaf2190a5ac0e7ae6099f39d866b0a1/crouton-1.8.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.keyboardsurfer.android.widget/crouton/1.8.4/9642aaeaf001419e10c420d7aae5aeabc99aa441/crouton-1.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\incremental\\mergePlayReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\2810c222d653729d5194ae297d163102\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    },
+                    "to": {
+                        "startLines": "15,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "799,1788",
+                        "endLines": "31,48",
+                        "endColumns": "10,10",
+                        "endOffsets": "1783,2754"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vidit\\.gradle\\caches\\transforms-2\\files-2.1\\8e346c796cd909e16a8e46430b362c27\\jetified-simplegallery-3.0.1\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,189,353",
+                        "endLines": "4,7,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "184,348,794"
+                    }
+                }
+            ]
+        }
+    ]
+}

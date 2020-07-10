@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2013-2020 Federico Iosue (federico@iosue.it)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:wheel="http://schemas.android.com/tools"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="false">
+
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:scrollbars="none"
+        android:background="@drawable/rounded_corner"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/mains"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:layout_gravity="center"
+            app:lottie_autoPlay="true"
+            android:visibility="visible"
+            android:scaleType="centerInside"
+            app:lottie_rawRes="@raw/support"
+            app:lottie_loop="true" />
+
+        <ImageView
+            android:layout_width="65dp"
+            android:layout_height="65dp" android:layout_below="@id/mains"
+            android:id="@+id/blackicon"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/logo"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:typeface="monospace"
+            android:layout_below="@id/blackicon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:id="@+id/appname"
+            android:textColor="#424242"
+            android:text="Notes Central"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_below="@id/appname"
+            android:layout_centerHorizontal="true"
+            android:typeface="monospace"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center"
+            android:id="@+id/compname"
+            android:textColor="#000"
+            android:text=""/>
+
+
+
+        <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:gravity="center_horizontal"-->
+        <!--android:paddingBottom="20dp"-->
+
+        <!--android:layout_height="wrap_content">-->
+        <!--&lt;!&ndash;<LinearLayout&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_alignParentBottom="true"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:orientation="horizontal">&ndash;&gt;-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:textSize="12sp"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:fontFamily="@font/googlefont"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:textColor="#000"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:text="Made in India with"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="14dp"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_height="14dp"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_marginLeft="2dp"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:src="@drawable/heart"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;</LinearLayout>&ndash;&gt;-->
+        <!--</RelativeLayout>-->
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rate Us"
+            android:theme="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:textSize="14sp"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:visibility="visible"
+            android:id="@+id/pixelbutton"
+            android:textColor="@color/gyellow"
+            app:strokeColor="@color/gyellow"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:layout_marginBottom="25dp"
+            android:layout_below="@+id/compname"
+            android:textAllCaps="false"
+            android:layout_centerHorizontal="true"/>
+
+    </RelativeLayout>
+
+    <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+
+</FrameLayout>

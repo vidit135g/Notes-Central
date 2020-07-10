@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"OmniNotes-playRelease-1.0.apk","fullName":"playRelease","baseName":"play-release","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.absolute.android.notescentral","split":"","minSdkVersion":"19"}}]

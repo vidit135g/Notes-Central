@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\build\\intermediates\\incremental\\mergePlayReleaseResources\\merged.dir\\values-nl-rNL\\values-nl-rNL.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vidit\\Downloads\\Omni-Notes-develop\\Omni-Notes-develop\\omniNotes\\src\\main\\res\\values-nl-rNL\\arrays.xml",
+                    "from": {
+                        "startLines": "49,33,38,44,20,27",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1884,1274,1507,1714,824,1051",
+                        "endLines": "54,37,43,48,26,32",
+                        "endColumns": "19,19,19,19,19,19",
+                        "endOffsets": "2074,1502,1709,1879,1046,1269"
+                    },
+                    "to": {
+                        "startLines": "2,8,13,19,24,31",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,250,483,690,860,1087",
+                        "endLines": "7,12,18,23,30,36",
+                        "endColumns": "19,19,19,19,19,19",
+                        "endOffsets": "245,478,685,855,1082,1305"
+                    }
+                }
+            ]
+        }
+    ]
+}
