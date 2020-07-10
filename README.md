@@ -31,6 +31,7 @@ Privacy: And we present to you, the most awaited feature for your notes, to keep
 Tags: Tags can also be used to sort your notes, to use tags in your notes, simply use your respective tags preceded by a "#" symbol. Once you use these tags, you will automatically get a tag catgeory in the left nav drawer pane.
 
 Capture what’s on your mind
+
 • Easily plan that surprise party by sharing your notes with others.
 Find what you need, fast
 
